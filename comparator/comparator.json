@@ -1,0 +1,17 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "plant_transfer_analytic",
+    "sector_integral_nonneg",
+    "circle_criterion_numerator_pos",
+    "popov_multiplier_expansion",
+    "popov_criterion_frequency_bound",
+    "n_dimensional_popov_absolute_stability"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}
